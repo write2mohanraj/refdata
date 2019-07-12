@@ -1,4 +1,5 @@
-dept_id,dept_name
+dept_id,dept_name,by
 100, HR
 200,Finance
 300,IT
+400,Tech,S2M
