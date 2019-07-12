@@ -1,5 +1,5 @@
 dept_id,dept_name,by
-100, HR
+100, HR,S2M
 200,Finance,Admin
 300,IT,W2M
 400,Tech,S2M
